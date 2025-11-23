@@ -1,5 +1,4 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-#### Date: 01.09.2025
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 
